@@ -6,4 +6,6 @@
 
 # เขียนโค้ดต่อจากนี้
 name = input()
+mes = int(input())
+print("Hello"())
 
